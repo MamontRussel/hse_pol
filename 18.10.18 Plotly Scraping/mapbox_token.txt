@@ -3,3 +3,5 @@ mapbox_access_token = "pk.eyJ1Ijoicm9nb3ZpY2giLCJhIjoiY2puZHFxczJsMmI4aTNxcmY1eG
 app_id =  "6b89ab2d5cf5439a8b77db87f72cab72"
 
 https://raw.githubusercontent.com/plotly/datasets/master/school_earnings.csv
+
+https://raw.githubusercontent.com/plotly/datasets/master/Nuclear%20Waste%20Sites%20on%20American%20Campuses.csv
